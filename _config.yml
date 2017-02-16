@@ -42,7 +42,7 @@ urlimg: 'https://github.com/sabrown84/feeling-responsive/tree/first-branch/image
 
 
 # Logo size is 600x80 pixels
-logo: "https://github.com/sabrown84/feeling-responsive/blob/first-branch/images/poster.jpg?raw=true"
+logo: "poster.png"
 
 # Gems
 gems:
