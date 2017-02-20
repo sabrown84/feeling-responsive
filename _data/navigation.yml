@@ -12,24 +12,23 @@
   dropdown:
   - title: "Fitness"
     url: "/design/grid/"
-  - title: "Food"
-    url: "/design/typography/typography/"
-  - title: "Adventure"
-    url: "/design/page/"
+#  - title: "Food"
+#   url: "/design/typography/typography/"
+#  - title: "Adventure"
+#    url: "/design/page/"
   - title: "Skin"
     url: "/design/post-left-sidebar/"
   - title: "Books"
     url: "/design/post-right-sidebar/"
 #  - title: "Just Pics"
 #    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
+  - title: "Blog"
     url: "/blog/"
 #  - title: "Video"
 #    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+#  - title: "Gallery"
+#    url: "/design/gallery/"
+
 
 #- title: "Header Styles"
 #  url: "/headers/"
@@ -50,8 +49,10 @@
 #  - title: "No Header but Image"
 #    url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/Progress/"
+#- title: Documentation
+#  url: "/Progress/"
+- title: "Portfolio"
+  url: "/design/portfolio/"
   side: left
   dropdown:
   - title: "Updates"
