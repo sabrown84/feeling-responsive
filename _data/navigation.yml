@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: Start Today
+- title: Services
   url: "/getting-started/"
   side: left
 
@@ -18,7 +18,7 @@
 #    url: "/design/page/"
   - title: "Skin"
     url: "/design/post-left-sidebar/"
-  - title: "Books"
+  - title: "Reviews"
     url: "/design/post-right-sidebar/"
 #  - title: "Just Pics"
 #    url: "/design/page-fullwidth/"

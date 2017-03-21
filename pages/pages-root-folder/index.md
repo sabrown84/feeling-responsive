@@ -1,7 +1,7 @@
 ---
 #
 # Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
+# inserted automatically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
@@ -9,13 +9,13 @@ header:
   image_fullwidth: cuteorchids.png
 widget1:
   title: "Blog"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: 'http://movethru.tech/feeling-responsive/blog/'
   image: 00014.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
   title: "Fitness"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  image: sport-927760_640.jpg
+  url: 'http://movethru.tech/feeling-responsive/info/'
+  image: pexels-photo-209968.jpeg
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
 
 widget3:
